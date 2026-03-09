@@ -8,7 +8,7 @@ seaborn
 How to use 
 Step 1: Clone the repository
 git clone https://github.com/RamyaMuthumariappan/Webscrapping-.git
-cd your-repo-name
+cd Webscrapping-
 
 Step 2: Install all dependencies 
 pip install -r requirements.txt
